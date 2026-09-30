@@ -1,0 +1,1 @@
+echo -e "annotations pour 2016\n" `ls -l  ../exo1/ann/ | grep 2016_ | wc -l` "\n annotations pour 2017\n" `ls -l  ../exo1/ann/ | grep 2017_ | wc -l` "\n annotations pour 2018\n" `ls -l  ../exo1/ann/ | grep 2018_ | wc -l` > comptes.txt
