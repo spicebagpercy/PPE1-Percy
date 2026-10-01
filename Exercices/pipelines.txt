@@ -1,1 +1,10 @@
 echo -e "annotations pour 2016\n" `ls -l  ../exo1/ann/ | grep 2016_ | wc -l` "\n annotations pour 2017\n" `ls -l  ../exo1/ann/ | grep 2017_ | wc -l` "\n annotations pour 2018\n" `ls -l  ../exo1/ann/ | grep 2018_ | wc -l` > comptes.txt
+
+echo -e "Location pour 2016\n" `grep -rio "location" 2016 | wc -l` "\n Location pour 2017\n" `grep -rio "location" 2017 | wc -l` "\n Location pour 2018\n" `grep -rio "location" 2018 | wc -l` > locations.txt
+
+echo -e "Locations les plus citées pour 2016\n" "`grep -rh -P "\tLocation " 2016 | cut -f3 | sort | uniq -c | sort -nr`" > classements_2016.txt
+echo -e "Locations les plus citées pour 2017\n" "`grep -rh -P "\tLocation " 2017 | cut -f3 | sort | uniq -c | sort -nr`" > classements_2017.txt
+echo -e "Locations les plus citées pour 2018\n" "`grep -rh -P "\tLocation " 2018 | cut -f3 | sort | uniq -c | sort -nr`" > classements_2018.txt 
+
+echo -e "Locations les plus citées en juin 2018\n" "`grep -rh -P --include="*2018_06*" "\tLocation " 2018 | cut -f3 | sort | uniq -c | sort -nr | head -5`" > classements_062018.txt 
+
