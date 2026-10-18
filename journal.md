@@ -8,10 +8,3 @@ Je suis assez démotivé ; si je n'y arrive pas aujourd'hui, je me demande comme
 J'ai envie de manger une mangue. 
 
 01/10/2026
-
-
-#SÉANCE 3
-
-##Exercices git
-
-Aujourd'hui j'ai fait des cookies au chocolat avec soit du caramel soit des amandes dans chaque cookie. J'aime beaucoup les cookies. C'est probablement pour ça que je suis en surpoids. J'ai un anniversaire tout à l'heure. 
