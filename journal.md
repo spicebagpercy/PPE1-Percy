@@ -8,3 +8,10 @@ Je suis assez démotivé ; si je n'y arrive pas aujourd'hui, je me demande comme
 J'ai envie de manger une mangue. 
 
 01/10/2026
+
+
+#Séance 3
+##Exercices Git
+20/10/2026.
+
+Ceci est une ligne bidon. Aujourd'hui moi et un ami avons fait nos ongles. J'ai les ongles argentés qui font effet chrome miroir maintenant. J'ai mangé thai ce midi. Mon ami a habité en Thailande. C'est sans doute un très beau pays. Je ne suis jamais allé en Asie de l'Est, mais je suis allé en Arménie et en Géorgie cet été, avec l'ami en question. On s'est bien amusés. 
